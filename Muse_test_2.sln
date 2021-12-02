@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Muse_test_2", "Muse_test_2\Muse_test_2.vfproj", "{C43739DF-BBF6-4B9A-AC9C-660D488909DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43739DF-BBF6-4B9A-AC9C-660D488909DC}.Debug|x64.ActiveCfg = Debug|x64
+		{C43739DF-BBF6-4B9A-AC9C-660D488909DC}.Debug|x64.Build.0 = Debug|x64
+		{C43739DF-BBF6-4B9A-AC9C-660D488909DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{C43739DF-BBF6-4B9A-AC9C-660D488909DC}.Debug|x86.Build.0 = Debug|Win32
+		{C43739DF-BBF6-4B9A-AC9C-660D488909DC}.Release|x64.ActiveCfg = Release|x64
+		{C43739DF-BBF6-4B9A-AC9C-660D488909DC}.Release|x64.Build.0 = Release|x64
+		{C43739DF-BBF6-4B9A-AC9C-660D488909DC}.Release|x86.ActiveCfg = Release|Win32
+		{C43739DF-BBF6-4B9A-AC9C-660D488909DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D5FE911-2244-4CA6-8BFF-FC4A115BF829}
+	EndGlobalSection
+EndGlobal
